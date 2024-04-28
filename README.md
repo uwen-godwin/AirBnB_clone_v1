@@ -132,7 +132,6 @@ Contains all unit test cases for this project:
 
 ## Usage
 
-```bash
 vagrantAirBnB_clone$./console.py
 (hbnb) help
 
