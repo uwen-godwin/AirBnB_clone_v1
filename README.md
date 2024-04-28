@@ -71,7 +71,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 ## File Descriptions
 
 ### console.py
-The console.py contains the entry point of the command interpreter. List of commands this console current supports:
+The console contains the entry point of the command interpreter. List of commands this console current supports:
 
 - EOF - exits console
 - quit - exits console
