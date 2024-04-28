@@ -145,5 +145,8 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) create BaseModel
 7da56403-cc45-4f1c-ad32-bfafeb2bb050
 (hbnb) all BaseModel
-[[BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050',
+[[BaseModel] (7da56403-cc45-4f1c-ad32-bfafeb2bb050) {'updated_at': 
+datetime.datetime(2017, 9, 28, 9, 50, 46, 772167), 'id': '7da56403-cc45-4f1c-ad32-bfafeb2bb050',
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
