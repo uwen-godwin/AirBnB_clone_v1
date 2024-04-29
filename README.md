@@ -154,4 +154,4 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the - (LICENSE)[https://github.com/uwen-godwin/AirBnB_clone_v3#license] file for details.
