@@ -131,7 +131,7 @@ Contains all unit test cases for this project:
 - Similar tests exist for other models.
 
 ## Usage
-```bash
+
 vagrantAirBnB_clone$./console.py
 (hbnb) help
 
