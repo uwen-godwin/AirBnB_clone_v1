@@ -131,7 +131,7 @@ Contains all unit test cases for this project:
 - Similar tests exist for other models.
 
 ## Usage
-
+```bash
 vagrantAirBnB_clone$./console.py
 (hbnb) help
 
@@ -154,4 +154,4 @@ EOF  all  create  destroy  help  quit  show  update
 
 
 ## License
-- **This project is licensed under the MIT License - see the for detail.**[LICENSE](https://github.com/uwen-godwin/AirBnB_clone_v3?tab=MIT-1-ov-file)
+- **This project is licensed under the MIT License - see the for detail.** [LICENSE](https://github.com/uwen-godwin/AirBnB_clone_v3?tab=MIT-1-ov-file)
